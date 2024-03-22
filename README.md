@@ -1,10 +1,10 @@
 <h1>⚾JavaSocket_BaseballGame⚾</h1>
 <p>Server와 Client를 Socket을 통해 연결하여 숫자야구 게임을 진행</p><br><br>
 
-<h2>portfolio</h2>
+<h2>Portfolio</h2>
 [자바_포트폴리오(이정운).pdf](https://github.com/Durumibird12/JavaSocket_BaseballGame/files/14723183/_.pdf)
-<br>
 
+<br><br>
 <div>
   <h2>Mechanism</h2>
   <h3>Server</h3>
