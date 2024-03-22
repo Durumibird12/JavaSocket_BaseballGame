@@ -19,7 +19,7 @@
   
   <h3>Client</h3>
   <ol type="1">
-    <li>rSocket 생성 및 접속</li>
+    <li>Socket 생성 및 접속</li>
     <li>생성된 Socket을 통해 BufferedReader와 PrintWriter 생성</li>
     <li>생성된 Stream을 통해 데이터 송수신</li>
   </ol>
